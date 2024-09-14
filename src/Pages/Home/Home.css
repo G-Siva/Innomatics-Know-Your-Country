@@ -1,0 +1,10 @@
+/* Home.css */
+.home-class {
+  background-image: url('https://img.freepik.com/free-photo/planets-solar-system_23-2150042454.jpg?t=st=1726307041~exp=1726310641~hmac=dd8cbe81bdd5e92d57788ae9e0c0976f74999e90f2d56a7a3a44e474e0abd263&w=740');
+  background-size: cover; /* Ensure the image covers the container */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  width: 100%;
+  height: 100vh; /* Set height to viewport height */
+  object-fit: cover; /* Ensure the image covers the div */
+}
